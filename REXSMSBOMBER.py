@@ -9,11 +9,11 @@ os.system("clear")
 os.system("apt install figlet -y")
 os.system("clear")
 print(f"{green}===========================================")
-print(f"{yellow}  REX TEAM DEVLOPER   |      TEAMSPEAK IP : REXTS.IR          ")
+print(f"{yellow}  REX TEAM DEVLOPER   |   TEAMSPEAK IP : REXTS.IR     ")
 print(f"{green}===========================================")
-print(f"{red} [1]"+ f"{blue} start")
-print(f"{red} [2]"+ f"{blue} exit")
-king = int(input(f"{red} [~]"+ f"{green} Bad_boy==>"))
+print(f"{red} [1]"+ f"{red} start")
+print(f"{red} [2]"+ f"{red} exit")
+king = int(input(f"{red} [~]"+ f"{green} REX==>"))
 if king == 1:
     hacker = input("Enter phone Number (+989++++++) : ")
     while True:
@@ -22,7 +22,3 @@ if king == 1:
 elif king == 2:
     os.system("clear")
     print("have nice day =) ")
-#tekegram channel : @samyBorder
-#made by admin channel 
-#samyar and M.r jooon or Bad_boy
-#good bye =) =)
